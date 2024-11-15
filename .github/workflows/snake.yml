@@ -8,8 +8,7 @@ on:
     - cron: "0 0 * * *"
 
 permissions:
-  contents: read
-  actions: write
+  contents: write  # Allows pushing changes to the repository
 
 jobs:
   generate:
@@ -17,7 +16,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3  # Updated to v3
+        uses: actions/checkout@v3
 
       - name: Generate Snake Game from GitHub Contribution Grid
         uses: Platane/snk@v3.2.0
@@ -25,9 +24,11 @@ jobs:
           github_user_name: "nicoware-dev"
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Upload Artifacts
-        if: success()
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake-game
-          path: .  # Upload any file generated in the root directory
+      # Add a step to commit the generated image
+      - name: Commit snake game image
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update GitHub Contribution Snake Game"
+          git push
