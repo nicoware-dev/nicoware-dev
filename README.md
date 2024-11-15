@@ -146,22 +146,6 @@
 
 ---
 
-## 📜 Certifications & Education
-
-- **Electronics Engineering** — Universidad Nacional de La Plata
-- **Global Sales Management Program** — Rockwell Automation
-- **Certified in Advanced English** — Cambridge University
-
-[📄 Download My Resume](https://www.notion.so/Copy-13b448dd6c4c80839490e5052dcd9f66?pvs=21)
-
----
-
-## 💡 Fun Fact
-
-Did you know? The first computer virus was created in 1971 and was called the "Creeper".
-
----
-
 <!-- Footer Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&text=Thank+You+for+Visiting!&fontSize=20&fontColor=ffffff" alt="Thank You for Visiting!">
