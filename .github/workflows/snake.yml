@@ -24,13 +24,10 @@ jobs:
         with:
           github_user_name: "nicoware-dev"
           github_token: ${{ secrets.GITHUB_TOKEN }}
-        env:
-          INPUT_SVG_OUT_PATH: "dist/github-contribution-grid-snake.svg"
-          INPUT_GIF_OUT_PATH: "dist/github-contribution-grid-snake.gif"
 
       - name: Upload Artifacts
         if: success()
         uses: actions/upload-artifact@v3
         with:
           name: snake-game
-          path: dist
+          path: github-contribution-grid-snake.svg
