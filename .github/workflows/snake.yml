@@ -1,5 +1,5 @@
-name: generate-snake-game-from-github-contribution-grid
-            
+name: Generate Snake Game from GitHub Contribution Grid
+
 on:
   push:
     branches:
@@ -22,8 +22,8 @@ jobs:
       - name: Generate Snake Game from GitHub Contribution Grid
         uses: Platane/snk@v3.2.0
         with:
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: "nicoware-dev"
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Upload Artifacts
         uses: actions/upload-artifact@v3
