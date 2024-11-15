@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Engineering%20Innovative%20Solutions%20for%20a%20Digital%20World&fontSize=30&fontAlignY=50&fontColor=ffffff" alt="Header Image">
 </p>
 
-<h1 align="center">Hi there, I'm Nicolas Dominici 👋</h1>
+<h1 align="center">Hi there, I'm Nico 👋</h1>
 
 <p align="center">
   <em>Problem Solver • Engineer • Developer • Consultant</em>
