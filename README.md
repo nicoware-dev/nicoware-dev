@@ -170,7 +170,7 @@ Did you know? The first computer virus was created in 1971 and was called the "C
 ---
 
 <!-- Animated Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nicoware-dev/nicoware-dev/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</p>
+
+![GitHub Contribution Snake](./github-contribution-grid-snake.svg)
+
 
