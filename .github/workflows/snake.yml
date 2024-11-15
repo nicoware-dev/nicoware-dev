@@ -23,17 +23,15 @@ jobs:
         with:
           github_user_name: "nicoware-dev"
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: "github-contribution-grid-snake.svg"  # Specify the output file
 
-      # Debug step: List files in the workspace to locate the generated file
       - name: List files in workspace
         run: ls -R
 
-      # Commit the snake game image if it exists
       - name: Commit snake game image
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          # Adjust the path if needed after checking the output of the previous step
           git add github-contribution-grid-snake.svg || exit 0
           git commit -m "Update GitHub Contribution Snake Game" || exit 0
           git push || exit 0
