@@ -62,12 +62,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicoware-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicoware-dev&theme=tokyonight" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicoware-dev&theme=tokyonight&token=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" alt="GitHub Streak">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoware-dev&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 ---
+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
 
 ## 🛠️ Skills & Technologies
 
