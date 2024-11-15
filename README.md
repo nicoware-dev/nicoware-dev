@@ -68,7 +68,6 @@
 </p>
 
 ---
-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
 
 ## 🛠️ Skills & Technologies
 
