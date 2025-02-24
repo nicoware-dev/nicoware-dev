@@ -95,29 +95,29 @@
 
 ## 🌟 Featured Projects
 
-### [AI-Powered Customer Service Platform](https://www.notion.so/Copy-13b448dd6c4c80839490e5052dcd9f66?pvs=21)
+### [SuperSonic](https://supersonic-phi.vercel.app/)
 
-- Developed an AI chatbot that improved customer engagement and reduced response times by 60%
-- **Technologies Used:** Python, TensorFlow, NLP
+- A sophisticated multi-agent system designed to revolutionize DeFi operations on Sonic through specialized agents and intelligent coordination.
+- **Technologies Used:** ElizaOS, n8n, TypeScript, React, Tailwind, NLP
 
-### [Blockchain-Based Supply Chain Management System](https://www.notion.so/Copy-13b448dd6c4c80839490e5052dcd9f66?pvs=21)
+### [WorksGood](https://www.worksgood.xyz/)
 
-- Created a transparent and secure system to track products from origin to consumer
-- **Technologies Used:** Ethereum, Solidity, Smart Contracts
+- Website for WorksGood Company
+- **Technologies Used:** TypseScript, Node.js, Astro, Tailwind
 
-### [Custom ERP Software for Manufacturing](https://www.notion.so/Copy-13b448dd6c4c80839490e5052dcd9f66?pvs=21)
+### [CuponChain](https://cuponchain.worksgood.xyz/)
 
-- Designed and implemented a comprehensive ERP solution to streamline operations
-- **Technologies Used:** JavaScript, Node.js, PostgreSQL
+- Designed and implemented a blockchain based coupons system on LaChain.
+- **Technologies Used:** TypeScript, Node.js, Astro, web3.js, LaChain blockchain.
 
 ---
 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Harnessing AI for Business Efficiency](https://www.notion.so/Copy-13b448dd6c4c80839490e5052dcd9f66?pvs=21)
-- [Building Scalable Solutions in a Rapidly Changing World](https://www.notion.so/Copy-13b448dd6c4c80839490e5052dcd9f66?pvs=21)
-- [Integrating Blockchain for Enhanced Security and Transparency](https://www.notion.so/Copy-13b448dd6c4c80839490e5052dcd9f66?pvs=21)
+- [The MERN Stack Explained: Building Full-Stack Applications with MongoDB, Express, React, and Node.js](https://0xn1c0.worksgood.xyz/blog/mern-stack-explained/)
+- [Hosting n8n Locally or on Google Cloud: Save Thousands on Workflow Automations](https://0xn1c0.worksgood.xyz/blog/n8n-hosting-guide/)
+- [Building an AI Workforce: Revolutionizing Business Efficiency and Reducing Costs](https://0xn1c0.worksgood.xyz/blog/ai-workforce-revolution/)
 <!-- BLOG-POST-LIST:END -->
 
 *➡️ [More blog posts...](https://0xn1c0.worksgood.xyz/blog)*
