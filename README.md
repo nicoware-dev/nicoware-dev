@@ -118,7 +118,7 @@
 - An open-source project simplifying interaction with EigenLayer's restaking capabilities through natural language processing
 - **Technologies:** ai16z Eliza Framework, TypeScript, Node.js, GaiaNet LLM, EigenLayer SDK, Web3.js
 
-### [HiveFi](https://hivefi.xyz/)
+### [HiveFi](https://hivefi-one.vercel.app/)
 - A cross-chain DeFi automation platform powered by AI agent swarms, making complex financial operations accessible
 - **Technologies:** React 18, TypeScript 5, Node.js, Python, TensorFlow, Web3.js, Solidity
 
