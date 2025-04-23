@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm Nico 👋</h1>
 
 <p align="center">
-  <em>Problem Solver • Engineer • Developer • Consultant</em>
+  <em>Software Engineer • AI Specialist • Blockchain Developer • Technical Consultant</em>
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 - 🌐 Visit my portfolio at [0xn1c0.worksgood.xyz](https://0xn1c0.worksgood.xyz/)
 - 🎓 Electronics Engineer from Universidad Nacional de La Plata
-- 💼 Specializing in custom software development, AI automation, and blockchain solutions
+- 💼 Specializing in modern web development, AI automation, and blockchain solutions
 - 📚 Passionate about bridging technology and business with innovative solutions
 - 🌍 Based in Corrientes, Argentina
 
@@ -37,23 +37,35 @@
 
 ### **Custom Software Development**
 
-- Tailored applications to meet unique business needs
-- **Technologies:** Python, JavaScript, TypeScript, Node.js, React, PostgreSQL
+- Developing modern web and mobile applications with Next.js, React, and TypeScript
+- Creating enterprise-grade systems with scalable architecture and robust security
+- Building high-performance APIs and integration solutions
+- Modernizing legacy systems and optimizing software performance
+- **Technologies:** Next.js, React, TypeScript, Node.js, Tailwind CSS, PostgreSQL
 
 ### **AI Automation and Integration**
 
-- Implementing AI solutions to enhance efficiency
-- **Expertise:** AI chatbots, machine learning, predictive analytics
+- Implementing machine learning for predictive analytics and anomaly detection
+- Developing NLP solutions including chatbots and content generation systems
+- Creating computer vision systems for object detection and visual inspection
+- Building intelligent workflow automation with self-learning capabilities
+- **Technologies:** TensorFlow, PyTorch, OpenCV, Python, n8n, ElizaOS
 
 ### **Blockchain Solutions**
 
-- Secure and scalable blockchain technologies
-- **Skills:** Smart contracts, decentralized applications (DApps), Ethereum, Solidity
+- Designing and auditing secure smart contracts for multiple blockchains
+- Developing DeFi applications with lending, trading, and staking capabilities
+- Creating NFT marketplaces and collection management systems
+- Building cryptocurrency wallets and exchange platforms
+- **Technologies:** Solidity, Web3.js, Ethers.js, OpenZeppelin, IPFS
 
 ### **Consulting and Content Creation**
 
-- Expert advice and insightful content
-- **Services:** Technical advisory, process improvement, technical writing
+- Developing comprehensive technology strategies and roadmaps
+- Guiding digital transformation initiatives and technology adoption
+- Creating technical documentation, tutorials, and knowledge bases
+- Optimizing technical SEO and developer-focused content
+- **Services:** Technical advisory, developer relations, content strategy
 
 ---
 
@@ -73,42 +85,50 @@
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <!-- Frameworks and Libraries -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
   <!-- AI and Machine Learning -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
   <!-- Blockchain -->
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
   <!-- Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <!-- Others -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-### [SuperSonic](https://supersonic-phi.vercel.app/)
+### [Australopithecus](https://australopithecus.worksgood.xyz/)
+- A groundbreaking platform merging experimental music with Web3 technology, creating an interactive space for artists and listeners
+- **Technologies:** React 18, TypeScript 5, WebGL/Three.js, Web Audio API, Ethereum/Web3, IPFS Storage
 
-- A sophisticated multi-agent system designed to revolutionize DeFi operations on Sonic through specialized agents and intelligent coordination.
-- **Technologies Used:** ElizaOS, n8n, TypeScript, React, Tailwind, NLP
+### [AIGENTLAYER](https://aigentlayer.xyz/)
+- An open-source project simplifying interaction with EigenLayer's restaking capabilities through natural language processing
+- **Technologies:** ai16z Eliza Framework, TypeScript, Node.js, GaiaNet LLM, EigenLayer SDK, Web3.js
 
-### [WorksGood](https://www.worksgood.xyz/)
-
-- Website for WorksGood Company
-- **Technologies Used:** TypseScript, Node.js, Astro, Tailwind
+### [HiveFi](https://hivefi.xyz/)
+- A cross-chain DeFi automation platform powered by AI agent swarms, making complex financial operations accessible
+- **Technologies:** React 18, TypeScript 5, Node.js, Python, TensorFlow, Web3.js, Solidity
 
 ### [CuponChain](https://cuponchain.worksgood.xyz/)
+- Blockchain-based coupon and rewards platform that revolutionizes how businesses handle loyalty programs
+- **Technologies:** Solidity, React, TypeScript, Web3.js, PostgreSQL, AWS Infrastructure
 
-- Designed and implemented a blockchain based coupons system on LaChain.
-- **Technologies Used:** TypeScript, Node.js, Astro, web3.js, LaChain blockchain.
+### [WorksGood](https://www.worksgood.xyz/)
+- Comprehensive documentation platform with modern design, dark/light mode support, and extensive technical resources
+- **Technologies:** Next.js 14, React 18, TypeScript 5, Tailwind CSS, Shadcn/ui, MDX Content
 
 ---
 
