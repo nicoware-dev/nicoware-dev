@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Engineering%20Innovative%20Solutions%20for%20a%20Digital%20World&fontSize=30&fontAlignY=50&fontColor=ffffff" alt="Header Image">
 </p>
 
-<h1 align="center">Hi there, I'm Nico 👋</h1>
+<h1 align="center">Hi, I'm Nico — AI Automation & Agentic Systems Engineer</h1>
 
 <p align="center">
-  <em>Software Engineer • AI Specialist • Blockchain Developer • Technical Consultant</em>
+  <em>n8n Expert • Multi‑Agent Architect • LLM Integrator • Blockchain + AI</em>
 </p>
 
 <p align="center">
@@ -25,47 +25,53 @@
 
 ## 🔥 About Me
 
-- 🌐 Visit my portfolio at [0xn1c0.worksgood.xyz](https://0xn1c0.worksgood.xyz/)
-- 🎓 Electronics Engineer from Universidad Nacional de La Plata
-- 💼 Specializing in modern web development, AI automation, and blockchain solutions
-- 📚 Passionate about bridging technology and business with innovative solutions
-- 🌍 Based in Corrientes, Argentina
+- 💼 I build production‑grade AI automations and agentic systems that save time and unlock new capabilities
+- 🧠 Specialties: n8n automation at scale, multi‑agent orchestration, LLM integration, vector/RAG systems
+- 🛠️ 10+ years across engineering, developer relations, and automation focused delivery
+- 🌍 Based in Corrientes, Argentina • Open to global remote collaborations
+- 🌐 Portfolio: [0xn1c0.worksgood.xyz](https://0xn1c0.worksgood.xyz/)
+
+---
+
+## 🏆 Awards & Recognition
+
+- 1st Prize — Tooling & Infrastructure, Sei AI/Accelathon (Seiling Buidlbox).  
+  Project: [Seiling Buidlbox](https://github.com/nicoware-dev/seiling-buidlbox) • No‑code multi‑agent toolkit for the Sei Network
+- 1st Prize — Sozu Virtual AI Hack (HiveFi).  
+  Project: [HiveFi](https://hivefi-one.vercel.app/)
+- 1st Prize — Gaia’s Autonomous Hackathon (AIGENTLAYER).  
+  Project: [AIGENTLAYER](https://aigentlayer.xyz/)
 
 ---
 
 ## 🚀 Services Offered
 
-### **Custom Software Development**
+### **AI Automation Systems (n8n)**
 
-- Developing modern web and mobile applications with Next.js, React, and TypeScript
-- Creating enterprise-grade systems with scalable architecture and robust security
-- Building high-performance APIs and integration solutions
-- Modernizing legacy systems and optimizing software performance
-- **Technologies:** Next.js, React, TypeScript, Node.js, Tailwind CSS, PostgreSQL
+- End‑to‑end workflow design with error handling, retries, and observability
+- Multi‑workflow orchestration, queues, scheduled jobs, and event‑driven pipelines
+- Self‑hosted, secure deployments with Docker and cloud/VPS
+- Outcomes: lead enrichment, report automation, data extraction, routing/triage, ETL
 
-### **AI Automation and Integration**
+### **Agentic Systems & LLM Integration**
 
-- Implementing machine learning for predictive analytics and anomaly detection
-- Developing NLP solutions including chatbots and content generation systems
-- Creating computer vision systems for object detection and visual inspection
-- Building intelligent workflow automation with self-learning capabilities
-- **Technologies:** TensorFlow, PyTorch, OpenCV, Python, n8n, ElizaOS
+- Multi‑agent architectures (ElizaOS, Cambrian, MCP), tool‑use and planning
+- RAG pipelines, vector search, knowledge graphs, context governance
+- Conversational bots for Slack/Discord/Telegram/WhatsApp with memory and guardrails
+- Outcomes: autonomous research, customer ops copilots, AI helpdesk, data copilots
 
-### **Blockchain Solutions**
+### **Data, Integrations & Infra**
 
-- Designing and auditing secure smart contracts for multiple blockchains
-- Developing DeFi applications with lending, trading, and staking capabilities
-- Creating NFT marketplaces and collection management systems
-- Building cryptocurrency wallets and exchange platforms
-- **Technologies:** Solidity, Web3.js, Ethers.js, OpenZeppelin, IPFS
+- Supabase/PostgreSQL, MongoDB, Qdrant/Pinecone, Redis, Neo4j
+- API design and integration (REST/GraphQL/OAuth2/Webhooks)
+- Observability, logging, and cost‑efficient scaling on GCP/AWS/DigitalOcean/VPS
+- Optional blockchain integrations (Sei/EVM) for on‑chain automations
 
-### **Consulting and Content Creation**
+### **Consulting & Enablement**
 
-- Developing comprehensive technology strategies and roadmaps
-- Guiding digital transformation initiatives and technology adoption
-- Creating technical documentation, tutorials, and knowledge bases
-- Optimizing technical SEO and developer-focused content
-- **Services:** Technical advisory, developer relations, content strategy
+- Architecture reviews, roadmaps, and proof‑of‑concepts
+- Team enablement, templates, and documentation
+- Technical content, workshops, and developer onboarding
 
 ---
 
@@ -74,7 +80,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicoware-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicoware-dev&theme=tokyonight&token=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" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicoware-dev&theme=tokyonight" alt="GitHub Streak">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoware-dev&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
@@ -106,19 +112,34 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
 </p>
 
+### AI & Automation Stack
+
+- n8n, Python, Node.js/TypeScript
+- LLMs/APIs: OpenAI, Gemini, Anthropic, DeepSeek, Ollama
+- Vector/RAG: Qdrant, Pinecone, Supabase PG, Redis
+- Agents: ElizaOS, Cambrian, MCP
+- Messaging/Apps: Slack, Discord, Telegram, WhatsApp
+- Cloud/Infra: Docker, GCP, AWS, DigitalOcean/VPS
+
 ---
 
 ## 🌟 Featured Projects
+
+### [Seiling Buidlbox](https://github.com/nicoware-dev/seiling-buidlbox)
+- 🏆 1st Prize — Tooling & Infrastructure, Sei AI/Accelathon  
+- No‑Code Sei multi‑agent developer toolkit: Eliza, Cambrian, Sei MCP, n8n, OpenWebUI, Ollama — fully containerized with bootstrap scripts, docs, and templates
 
 ### [Australopithecus](https://australopithecus.worksgood.xyz/)
 - A groundbreaking platform merging experimental music with Web3 technology, creating an interactive space for artists and listeners
 - **Technologies:** React 18, TypeScript 5, WebGL/Three.js, Web Audio API, Ethereum/Web3, IPFS Storage
 
 ### [AIGENTLAYER](https://aigentlayer.xyz/)
+- 🏆 1st Prize — Gaia’s Autonomous Hackathon
 - An open-source project simplifying interaction with EigenLayer's restaking capabilities through natural language processing
 - **Technologies:** ai16z Eliza Framework, TypeScript, Node.js, GaiaNet LLM, EigenLayer SDK, Web3.js
 
 ### [HiveFi](https://hivefi-one.vercel.app/)
+- 🏆 1st Prize — Sozu Virtual AI Hack
 - A cross-chain DeFi automation platform powered by AI agent swarms, making complex financial operations accessible
 - **Technologies:** React 18, TypeScript 5, Node.js, Python, TensorFlow, Web3.js, Solidity
 
@@ -141,6 +162,16 @@
 <!-- BLOG-POST-LIST:END -->
 
 *➡️ [More blog posts...](https://0xn1c0.worksgood.xyz/blog)*
+
+---
+
+## 💼 Work With Me
+
+- Starter: Automation audit + quick wins (n8n + LLM integration)
+- Pro: AI agent MVP (RAG + tools + messaging)
+- Scale: Production pipeline with monitoring, security, and SLAs
+
+👉 Email: [nicolasdominici@outlook.com](mailto:nicolasdominici@outlook.com) • Telegram: [@n1c0_dev](https://t.me/n1c0_dev)
 
 ---
 
