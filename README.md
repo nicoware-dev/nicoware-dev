@@ -29,7 +29,7 @@
 - 🧠 Specialties: n8n automation at scale, multi‑agent orchestration, LLM integration, vector/RAG systems
 - 🛠️ 10+ years across engineering, developer relations, and automation focused delivery
 - 🌍 Based in Corrientes, Argentina • Open to global remote collaborations
-- 🌐 Portfolio: [0xn1c0.worksgood.xyz](https://0xn1c0.worksgood.xyz/)
+- 🌐 Portfolio: [nico.worksgood.xyz](https://nico.worksgood.xyz/)
 
 ---
 
