@@ -65,6 +65,30 @@ Vercel · VPS deployments · Self-hosted services · Docker Compose · Cloudflar
 
 ---
 
+## Previous Work
+
+I built several advanced prototypes around AI agents, workflow automation, developer tooling, research systems, and Web3 infrastructure.
+
+Examples include:
+
+- Local AI agent development tooling
+- Multi-agent financial intelligence workflows
+- Autonomous task execution systems
+- Research and coordination workflows
+- AI-assisted developer infrastructure
+
+Some of these projects were built during hackathons and early-stage technical experiments.
+
+---
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=nicoware-dev&show_icons=true&bg_color=0B1722&title_color=F6F5F1&text_color=4A5668&icon_color=00B2B8&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
 ## Connect
 
 <p align="center">
